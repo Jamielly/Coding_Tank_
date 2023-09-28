@@ -1,4 +1,5 @@
 # Coding_Tank 🛵 
+<div align="justify">
 Desafio CT - Ada + Ifood, em JavaScript abordando conceitos iniciais da linguagem.
 
 Os desafios apresentados envolvem a resolução de problemas de programação em JavaScript, abordando diferentes conceitos e tarefas comuns na programação. 
